@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Practica3-Grupo5/static/css/main.25e58655.css",
-    "main.js": "/Practica3-Grupo5/static/js/main.f14ba40d.js",
+    "main.js": "/Practica3-Grupo5/static/js/main.dd1c6c2f.js",
     "index.html": "/Practica3-Grupo5/index.html",
     "main.25e58655.css.map": "/Practica3-Grupo5/static/css/main.25e58655.css.map",
-    "main.f14ba40d.js.map": "/Practica3-Grupo5/static/js/main.f14ba40d.js.map"
+    "main.dd1c6c2f.js.map": "/Practica3-Grupo5/static/js/main.dd1c6c2f.js.map"
   },
   "entrypoints": [
     "static/css/main.25e58655.css",
-    "static/js/main.f14ba40d.js"
+    "static/js/main.dd1c6c2f.js"
   ]
 }
