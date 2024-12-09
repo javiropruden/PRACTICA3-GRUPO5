@@ -1,11 +1,8 @@
-/* Reset de los estilos por defecto del navegador */
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
-/* Aseguramos que el body tenga un margen adecuado y un fondo */
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -15,18 +12,15 @@ body {
   padding: 0;
 }
 
-/* Estilos generales para la aplicación */
 .App {
   text-align: center;
   padding: 20px;
 }
 
-/* Estilo de los títulos */
 h1, h2, h3 {
   font-family: 'Arial', sans-serif;
 }
 
-/* Estilo para los botones */
 button {
   padding: 10px 20px;
   background-color: #007BFF;
@@ -40,7 +34,6 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Estilos para los enlaces */
 a {
   color: #007BFF;
   text-decoration: none;
@@ -50,7 +43,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Estilo de las listas */
 ul {
   list-style-type: none;
   padding-left: 0;
@@ -60,7 +52,6 @@ li {
   margin: 10px 0;
 }
 
-/* Diseño responsivo */
 @media (max-width: 768px) {
   body {
     font-size: 14px;
