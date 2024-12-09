@@ -7,14 +7,13 @@
   <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
   <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
   <link rel="stylesheet" href="%PUBLIC_URL%/App.css">
-  <title>Book Finder - Grupo 5</title>
+  <title>Buscador de Libros - Grupo 5</title>
   <meta name="description" content="Una aplicación PWA para buscar libros y clasificarlos por géneros literarios.">
 </head>
 <body>
   <noscript>Por favor, habilita JavaScript para usar esta aplicación.</noscript>
   <div id="root"></div>
 
-  <!-- Service Worker Registration -->
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('%PUBLIC_URL%/serviceWorker.js').then(
